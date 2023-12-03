@@ -1,2 +1,8 @@
 # dbt-code
-End to end dbt project 
+Welcome to your new dbt project!
+
+Using the starter project
+Try running the following commands:
+
+dbt run
+dbt test
